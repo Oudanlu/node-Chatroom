@@ -21,10 +21,10 @@ npm run dev
 
 # 项目运行部分截图
 
-![Image text]https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat1.png)
+![Image text](https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat1.png)
 
-![Image text]https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat2.png)
+![Image text](https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat2.png)
 
-![Image text]https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat3.png)
+![Image text](https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat3.png)
 
-![Image text]https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat4.png)
+![Image text](https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat4.png)
