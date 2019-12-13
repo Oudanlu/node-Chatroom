@@ -25,6 +25,7 @@ npm install 或 yarn(推荐)
 # 启动服务
 npm run dev
 
+
 # 项目运行部分截图
 
 ![Image text](https://github.com/Oudanlu/node-Chatroom/blob/master/static/images/chat1.png)
